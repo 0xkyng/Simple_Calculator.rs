@@ -63,3 +63,17 @@ Enter the first number:
 Enter the second number:
 3
 Result: 8
+
+## Error Handling
+
+- The program handles division by zero and displays an error message in such cases.
+- It also checks for invalid operation symbols and prompts the user to enter a valid one.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
