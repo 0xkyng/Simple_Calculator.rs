@@ -37,6 +37,8 @@ fn main() {
             println!("Error: Invalid operation symbol.");
             return;
         }
+        // The underscore (_) is a wildcard pattern that matches any value not covered by previous patterns.
+        //If operation doesn't match any of the previous patterns ("+", "-", "*", "/"), it prints an error message, "Error: Invalid operation symbol," and exits the program using return.
     };
 
     // Display the result
